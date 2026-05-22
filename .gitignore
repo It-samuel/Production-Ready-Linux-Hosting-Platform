@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Node dependencies (if you add frontend later)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Docker runtime files
+*.log
+
+# IDE files
+.vscode/
+
+# Secrets
+*.pem
+*.key
+
+# Docker volumes (if created later)
+*.tar
