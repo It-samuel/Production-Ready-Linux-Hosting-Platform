@@ -293,35 +293,6 @@ This project provided hands-on experience with:
 
 ---
 
-# Future Improvements
-
-Potential future enhancements include:
-
-* CI/CD pipeline integration
-* Prometheus monitoring
-* Grafana dashboards
-* Automated backups
-* Container health checks
-* Kubernetes migration
-* Load balancing
-* Infrastructure as Code using Terraform
-
----
-
-# Screenshots
-
-Add screenshots here:
-
-* Azure VM dashboard
-* SSH terminal setup
-* Docker containers running
-* NGINX reverse proxy
-* Frontend application
-* Backend API response
-* HTTPS-enabled website
-
----
-
 # Author
 
 Samuel Happiness
